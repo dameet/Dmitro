@@ -2854,7 +2854,7 @@ input, select, textarea {
 			background-color: #333;
 			color: rgba(255, 255, 255, 0.75);
 			background-attachment: fixed,							fixed;
-			background-image: url("images/01-splash.jp2"), url("../../images/header.jp2");
+			background-image: url("images/01-splash.jpeg"), url("../../images/header.jpeg");
 			background-size: auto,							cover;
 		}
 
@@ -2866,7 +2866,7 @@ input, select, textarea {
           left: 0;
           bottom: 0;
           right: 0;
-          background: url("../images/old/background1.jp2");
+          background: url("../images/old/background1.jpeg");
           opacity: 0.5;
           content: ""; 
           background-size: cover;
@@ -2966,7 +2966,7 @@ input, select, textarea {
 		background-color: #4686a0;
 		color: rgba(255, 255, 255, 0.75);
 		background-attachment: fixed,							fixed,							fixed;
-		background-image: url("../images/03-contact.jp2"), url("images/overlay3.svg"), linear-gradient(45deg, #9dc66b 5%, #4fa49a 30%, #4361c2);
+		background-image: url("../images/03-contact.jpeg"), url("images/overlay3.svg"), linear-gradient(45deg, #9dc66b 5%, #4fa49a 30%, #4361c2);
 		background-position:center;
 		background-size: cover;;
 		overflow: hidden;
