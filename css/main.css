@@ -2854,7 +2854,7 @@ input, select, textarea {
 			background-color: #333;
 			color: rgba(255, 255, 255, 0.75);
 			background-attachment: fixed,							fixed;
-			background-image: url("images/01-splash.jpeg"), url("../../images/header.jpg");
+			background-image: url("images/01-splash.jp2"), url("../../images/header.jp2");
 			background-size: auto,							cover;
 		}
 
@@ -2866,7 +2866,7 @@ input, select, textarea {
           left: 0;
           bottom: 0;
           right: 0;
-          background: url("../images/old/background2.png");
+          background: url("../images/old/background1.jp2");
           opacity: 0.5;
           content: ""; 
           background-size: cover;
